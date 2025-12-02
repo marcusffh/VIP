@@ -16,6 +16,7 @@ jupyter
 
 As the assignment code consist of a jupyter notebook (a file ending with  .ipynb),
 you only need to press "Run all" at the top of the document to run the code.
+Also you should have the 'mandril.jpg' image in the same folder as the 'assignment_2.ipynb' file
 
 Please note that we have described the code and results under every section. These descriptions
 may also be found on the final report.
